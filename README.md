@@ -1,28 +1,29 @@
 # Environment Waste Disposal Backend Service Restful Api Django
 
-# How to Run , this Project Locally
+# Step by Step to install and Config project
 
-- Install Python
-  [Python](https://www.python.org/)
+- #Step 1: Install Python on Your Machine!
 
-- Clone this Project
+  [Install Python via Link ](https://www.python.org/)
+
+- #Step 2 :Clone Project on Local Machine by using this command.
 ```
 git clone https://github.com/ramaalibonga/Environment_Waste_Disposal_Backend_Service_Restful_Api_Django.git
 
 ```
 
-- Then Navigate to Environment_Waste_Disposal_Backend_Service_Restful_Api_Django contain manage.py
+- Step 3 :  Navigate to this path  Environment_Waste_Disposal_Backend_Service_Restful_Api_Django 
   
 ```
 cd Environment_Waste_Disposal_Backend_Service_Restful_Api_Django
 ```
 
-- Then Install All requirements
+- Step 4 : Install All requirements
   
 ```
 pip install requirements.txt
 ```
--Finally run
+-Step 5 : Start to run Project and Enjoy!
 ```
 python manage.py runserver
 ```
